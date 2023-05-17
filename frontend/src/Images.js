@@ -1,0 +1,37 @@
+export const Images =[
+    {
+        id:1,
+        src:'../images/headimage.jpg',
+        alt:'run'
+    },
+    {
+        id:2,
+        src:'./images/insurance.png',
+        alt:'ins'
+    },
+    {
+        id:3,
+        src:'./images/razor.png',
+        alt:'rzr'
+    },
+    {
+        id:4,
+        src:'./images/health-care.png',
+        alt:'hlth'
+    },
+    {
+        id:5,
+        src:'./images/vitamin.png',
+        alt:'vtmn'
+    },
+    {
+        id:6,
+        src:'./images/personal-hygiene.png',
+        alt:'hygn'
+    },
+    {
+        id:7,
+        src:'./images/running.png',
+        alt:'jj'
+    }
+];

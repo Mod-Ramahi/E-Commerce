@@ -1,0 +1,13 @@
+.line {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    background-color: black;
+    p{
+        display: flex;
+        align-items: center;
+        color: azure;
+        font-size: 20px;
+        font-weight: 400;
+    }
+  }
