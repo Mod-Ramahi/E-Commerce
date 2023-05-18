@@ -1,0 +1,27 @@
+.slider {
+    height:50vh;
+    width: 100%;
+    position: relative;
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+
+    .slider-image {
+        height: 50vh;
+        width: 100%;
+        object-fit:contain;
+    }
+    h3, p{
+        color: rgb(0, 0, 0);
+        background-color: rgba($color: #ffffff, $alpha: 0.7);
+        font-weight: 500;
+    }
+
+
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    /* If using Bootstrap 5 */
+    filter: invert(2);
+    color: red;
+  }
+
+}
